@@ -1,2 +1,2 @@
 # calc
-Simple java calculator
+Simple calculator with java
